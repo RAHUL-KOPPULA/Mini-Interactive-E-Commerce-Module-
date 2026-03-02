@@ -1,7 +1,10 @@
-# Mini-Interactive-E-Commerce-Module-
+# 🛒 Mini Interactive E-Commerce Module (MERN Stack)
+
+---
+
 ## 🚀 Project Overview
 
-This project is a Mini E-Commerce Product Module built using:
+This project is a **Mini E-Commerce Product Module** built using:
 
 - MongoDB
 - Express.js
@@ -58,7 +61,7 @@ node seed.js
 4️⃣ Start Backend
 npm run dev
 
-Backend runs on:
+# Backend runs on:
 
 http://localhost:5000
 💻 Frontend Setup
@@ -111,7 +114,7 @@ Total price calculation
 
 Place order button (dummy alert)
 
-🧠 Database Schema
+🧠 ## Database Schema
 Product Schema
 {
   name: String,
@@ -140,7 +143,7 @@ Clean Card Design
 
 Mobile Friendly
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 React.js
 
